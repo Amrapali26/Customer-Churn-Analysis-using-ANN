@@ -1,2 +1,4 @@
 # Customer-Churn-Analysis-using-ANN
-customer
+Customer Churn is one of the most important and challenging problems for businesses such as Credit Card companies, cable service providers, SASS and telecommunication companies worldwide. Even though it is not the most fun to look at, customer churn metrics can help businesses improve customer retention.
+Because of the significant importance of customer churn within a business, stakeholders are investing more time and effort in finding out the reasoning within their organizations, how they can accurately predict the type of existing customers that can stop doing business with them and what they can do to minimize the customer churn.
+The best way to avoid customer churn is to know your customers, and the best way to know your customer is through historical and new customer data.
